@@ -1,0 +1,26 @@
+[
+  {
+    "code": 1,
+    "articulo": "test2",
+    "detalle": "test2 detalle",
+    "vencimiento": "2024-10-10T00:00:00.000Z",
+    "stock": 100,
+    "valor": 1200
+  },
+  {
+    "code": 2,
+    "articulo": "pirulo de goma",
+    "detalle": "pirulo detalle",
+    "vencimiento": "2024-10-10T00:00:00.000Z",
+    "stock": 150,
+    "valor": 15000
+  },
+  {
+    "code": 3,
+    "articulo": "Vas de vidrio",
+    "detalle": "Vaso de vidrio color azul",
+    "vencimiento": "2024-10-10T00:00:00.000Z",
+    "stock": 100,
+    "valor": 2500
+  }
+]
